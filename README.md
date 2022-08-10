@@ -28,8 +28,6 @@ src="https://img.shields.io/github/followers/RezaGolpayegani?logo=github&style=f
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=RezaGolpayegani&" alt="RezaGolpayegani" /> 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RezaGolpayegani&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 <!----------------------------->
 <!-- COMMENTED FOR LATER USE -->
 <!----------------------------->
