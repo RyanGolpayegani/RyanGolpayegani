@@ -18,10 +18,10 @@ src="https://img.shields.io/github/followers/RezaGolpayegani?logo=github&style=f
   <!--add personal website later (between gmail and medium)-->
 <!-- [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.hejazizo.com)](https://www.hejazizo.com)-->
   
-- 💻 Owner of [**PyTopia**](https://github.com/pytopia) github organization. Check it out for daily Python and Machine Learning contents.
-- 🤔 I’m currently reading [Architecture Patterns with Python](https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/preface01.html). Check it out if interested.
-- 🌱 I also teach Python, Machine Learning, Git, etc. Visit my website, [hejazizo.com](https://www.hejazizo.com), and also my [teaching material](https://github.com/hejazizo/CS-Tutorial).
-- 📫 How to reach me: rzgolpayegani@yahoo.com
+- 💻 I'm an Electrical Engineering student at K. N. Toosi Unisversity of Techonology.
+- 🤔 I'm currently looking for a M.Sc position in Computer Science with an emphasis in areas related to Natural Language Processing (NLP), Image Processing and Machine Learning.
+- 🌱 
+- 📫 How to reach me: rzgolpayegani@yahoo.com, rz.golpayegani@gmail.com
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RezaGolpayegani&show_icons=true&locale=en&layout=compact" alt="RezaGolpayegani" />
