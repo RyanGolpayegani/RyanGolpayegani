@@ -18,7 +18,7 @@ src="https://img.shields.io/github/followers/RezaGolpayegani?logo=github&style=f
   <!--add personal website later (between gmail and medium)-->
 <!-- [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.hejazizo.com)](https://www.hejazizo.com)-->
   
-- 💻 I'm an Electrical Engineering student at K. N. Toosi Unisversity of Techonology.
+- 💻 I'm an Undergraduate Electrical Engineering student at K. N. Toosi Unisversity of Techonology. My B.Sc final project is focused on Speech Recognition (Voice Activity Detection (VAD)).
 - 🤔 I'm currently looking for a M.Sc position in Computer Science with an emphasis in areas related to Natural Language Processing (NLP), Image Processing and Machine Learning.
 - 🌱 
 - 📫 How to reach me: rzgolpayegani@yahoo.com, rz.golpayegani@gmail.com
