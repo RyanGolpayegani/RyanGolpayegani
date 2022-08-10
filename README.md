@@ -20,7 +20,8 @@ src="https://img.shields.io/github/followers/RezaGolpayegani?logo=github&style=f
   
 - 💻 I'm an Undergraduate Electrical Engineering student at K. N. Toosi Unisversity of Techonology. My B.Sc final project is focused on Speech Recognition (Voice Activity Detection (VAD)).
 - 🤔 I'm currently looking for a M.Sc position in Computer Science with an emphasis in areas related to Natural Language Processing (NLP), Image Processing and Machine Learning.
-- 🌱 
+- 🔭 I also try to improve my programming skills by taking online courses and doing projects.
+- 🌱 I’m currently learning database (SQL and MongoDB).
 - 📫 How to reach me: rzgolpayegani@yahoo.com, rz.golpayegani@gmail.com
 
 <div>
