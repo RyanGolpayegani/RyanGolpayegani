@@ -26,8 +26,7 @@ src="https://img.shields.io/github/followers/RezaGolpayegani?logo=github&style=f
 - 📫 How to reach me: rzgolpayegani@yahoo.com, reza.golpayegani1379@gmail.com
 <br>
 <br>
-<br>
-<br>
+
 <!-- - 🤔 -->
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RezaGolpayegani&show_icons=true&locale=en&layout=compact" alt="RezaGolpayegani" />
