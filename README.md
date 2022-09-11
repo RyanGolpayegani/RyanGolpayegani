@@ -20,11 +20,11 @@ src="https://img.shields.io/github/followers/RezaGolpayegani?logo=github&style=f
 <!-- [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.hejazizo.com)](https://www.hejazizo.com)-->
   
 - 💻 I'm an Undergraduate Electrical Engineering student at K. N. Toosi Unisversity of Techonology. My B.Sc final project is focused on Speech Recognition (Voice Activity Detection (VAD)).
-- 🤔 I'm currently looking for a M.Sc position in Computer Science with an emphasis in areas related to Natural Language Processing (NLP), Image Processing and Machine Learning.
-- 🔭 Currently, I spend on learning and practicing to develop my skills. 
-- 🌱 I’m currently learning database (SQL and MongoDB).
+<!-- - 🔭 I'm currently looking for a M.Sc position in Computer Science with an emphasis in areas related to Natural Language Processing (NLP), Image Processing and Machine Learning. -->
+- 🌱 Currently, I spend on learning and practicing to develop my skills. 
+<!-- -  I’m currently learning database (SQL and MongoDB). -->
 - 📫 How to reach me: rzgolpayegani@yahoo.com, reza.golpayegani1379@gmail.com
-
+- 🤔
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RezaGolpayegani&show_icons=true&locale=en&layout=compact" alt="RezaGolpayegani" />
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=RezaGolpayegani&" alt="RezaGolpayegani" /> 
