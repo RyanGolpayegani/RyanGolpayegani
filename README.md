@@ -24,7 +24,7 @@ src="https://img.shields.io/github/followers/RezaGolpayegani?logo=github&style=f
 <!-- - 🔭 I'm currently looking for a M.Sc position in Computer Science with an emphasis in areas related to Natural Language Processing (NLP), Image Processing and Machine Learning. -->
 - 🌱 Currently, I spend on learning and practicing to develop my skills. 
 <!-- -  I’m currently learning database (SQL and MongoDB). -->
-- 📫 How to reach me: rzgolpayegani@yahoo.com, reza.golpayegani1379@gmail.com
+- 📫 How to reach me: rzgolpayegani@yahoo.com
 <br>
 <br>
 
