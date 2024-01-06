@@ -20,8 +20,8 @@ src="https://img.shields.io/github/followers/RezaGolpayegani?logo=github&style=f
   <!--add personal website later (between gmail and medium)-->
 <!-- -->
   
-- 💻 I'm an Undergraduate Electrical Engineering student at K. N. Toosi Unisversity of Techonology. My B.Sc final project is focused on Speech Recognition (Voice Activity Detection (VAD)).
-<!-- - 🔭 I'm currently looking for a M.Sc position in Computer Science with an emphasis in areas related to Natural Language Processing (NLP), Image Processing and Machine Learning. -->
+- 💻 I'm an M.Sc. student in Computer Science at University of Saskatchewan.
+<!-- - 🔭 -->
 - 🌱 Currently, I spend on learning and practicing to develop my skills. 
 <!-- -  I’m currently learning database (SQL and MongoDB). -->
 <!-- - 📫 How to reach me: rzgolpayegani@yahoo.com -->
