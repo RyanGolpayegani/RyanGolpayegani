@@ -21,10 +21,8 @@ src="https://img.shields.io/github/followers/RezaGolpayegani?logo=github&style=f
 <!-- -->
   
 - 💻 I'm an M.Sc. student in Computer Science at University of Saskatchewan.
-<!-- - 🔭 -->
 - 🌱 Currently, I spend on learning and practicing to develop my skills.
 - 👯 I’m looking to collaborate on any open-source project 
-<!-- -  I’m currently learning database (SQL and MongoDB). -->
 - 📫 How to reach me: rzgolpayegani@yahoo.com
 
 ### 🖥 Skills
