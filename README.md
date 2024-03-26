@@ -31,7 +31,7 @@ src="https://img.shields.io/github/followers/RezaGolpayegani?logo=github&style=f
 <!-- - 🤔 -->
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RezaGolpayegani&show_icons=true&locale=en&layout=compact" alt="RezaGolpayegani" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=RezaGolpayegani&" alt="RezaGolpayegani" /> 
+<!--   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=RezaGolpayegani&" alt="RezaGolpayegani" />  -->
 </div>
 
 <!----------------------------->
