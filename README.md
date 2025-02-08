@@ -14,7 +14,7 @@ src="https://img.shields.io/github/followers/RezaGolpayegani?logo=github&style=f
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://rezagolpayegani.github.io/)](https://rezagolpayegani.github.io/)
 [![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@RezaGolpayegani)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/rezagolpayegani_/)](https://www.instagram.com/rezagolpayegani_)
-[![X Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/rgolpayegani)](https://twitter.com/rgolpayegani)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/rgolpayegani)](https://twitter.com/rgolpayegani)
 [![Github](https://img.shields.io/github/followers/RezaGolpayegani?label=Follow&style=social)](https://github.com/RezaGolpayegani)
 
   <!--add personal website later (between gmail and medium)-->
