@@ -20,9 +20,9 @@ src="https://img.shields.io/github/followers/RezaGolpayegani?logo=github&style=f
   <!--add personal website later (between gmail and medium)-->
 <!-- -->
   
-- 💻 I'm an M.Sc. student in Computer Science at University of Saskatchewan.
+- 💻 I'm a Machine Learning Engineer at University of Saskatchewan.
 - 🌱 Currently, I spend on learning and practicing to develop my skills.
-- 👯 I’m looking to collaborate on any open-source project.
+- 👯 I’m open to collaborate on any open-source projects.
 - 📫 How to reach me: reza.golpayegani1379@gmail.com
 
 ### 🖥 Skills
