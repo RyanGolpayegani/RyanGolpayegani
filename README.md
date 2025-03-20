@@ -9,11 +9,11 @@ src="https://img.shields.io/twitter/follow/rgolpayegani?logo=twitter&style=for-t
 src="https://img.shields.io/github/followers/RezaGolpayegani?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRezaGolpayegani%2FRezaGolpayegani&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rezagolpayegani/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ryangolpayegani)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:reza.golpayegani1379@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://rezagolpayegani.github.io/)](https://rezagolpayegani.github.io/)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://ryangolpayegani.github.io/)](https://ryangolpayegani.github.io/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/rezagolpayegani_/)](https://www.instagram.com/rezagolpayegani_)
-[![Github](https://img.shields.io/github/followers/RezaGolpayegani?label=Follow&style=social)](https://github.com/RezaGolpayegani)
+[![Github](https://img.shields.io/github/followers/RezaGolpayegani?label=Follow&style=social)](https://github.com/RyanGolpayegani)
 <!--[![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@RezaGolpayegani)-->
 
 <!--[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/rgolpayegani)](https://twitter.com/rgolpayegani)-->
