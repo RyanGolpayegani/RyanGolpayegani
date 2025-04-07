@@ -13,7 +13,7 @@ src="https://img.shields.io/github/followers/RezaGolpayegani?logo=github&style=f
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:reza.golpayegani1379@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://ryangolpayegani.github.io/)](https://ryangolpayegani.github.io/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/rezagolpayegani_/)](https://www.instagram.com/rezagolpayegani_)
-[![Github](https://img.shields.io/github/followers/RezaGolpayegani?label=Follow&style=social)](https://github.com/RyanGolpayegani)
+[![Github](https://img.shields.io/github/followers/RyanGolpayegani?label=Follow&style=social)](https://github.com/RyanGolpayegani)
 <!--[![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@RezaGolpayegani)-->
 
 <!--[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/rgolpayegani)](https://twitter.com/rgolpayegani)-->
