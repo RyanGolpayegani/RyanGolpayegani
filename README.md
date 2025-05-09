@@ -21,7 +21,16 @@ src="https://img.shields.io/github/followers/RezaGolpayegani?logo=github&style=f
 
   <!--add personal website later (between gmail and medium)-->
 <!-- -->
-  
+
+
+<div float="left" align="center">
+  <img src="https://komarev.com/ghpvc/?username=RyanGolpayegani" />
+  <img src="https://wakatime.com/badge/user/81ff4d2d-e803-4e4e-8f70-8407531e5f8b.svg">
+  <img src="https://img.shields.io/badge/Pull%20requests-welcome-green" />
+</div>
+
+
+
 - 💻 I'm a Machine Learning Engineer at University of Saskatchewan.
 - 🌱 Currently, I spend on learning and practicing to develop my skills.
 - 👯 I’m open to collaborate on any open-source projects.
