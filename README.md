@@ -23,13 +23,6 @@ src="https://img.shields.io/github/followers/RezaGolpayegani?logo=github&style=f
 <!-- -->
 
 
-<div float="left" align="center">
-  <img src="https://komarev.com/ghpvc/?username=RyanGolpayegani" />
-  <img src="https://wakatime.com/badge/user/81ff4d2d-e803-4e4e-8f70-8407531e5f8b.svg">
-  <img src="https://img.shields.io/badge/Pull%20requests-welcome-green" />
-</div>
-
-
 
 - 💻 I'm a Machine Learning Engineer at University of Saskatchewan.
 - 🌱 Currently, I spend on learning and practicing to develop my skills.
@@ -51,6 +44,26 @@ src="https://img.shields.io/github/followers/RezaGolpayegani?logo=github&style=f
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RyanGolpayegani&show_icons=true&locale=en&layout=compact" alt="RyanGolpayegani" />
 <!--   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=RezaGolpayegani&" alt="RezaGolpayegani" />  -->
 </div>
+
+
+<!--
+<h1 align="center">✨ My GitHub Stats ✨</h1>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGolpayegani&hide=html,css&layout=compact&theme=dracula">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RyanGolpayegani&show_icons=true&theme=dracula">
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanGolpayegani&theme=dracula">
+</p>
+-->
+
+
+
+
+
 
 <!----------------------------->
 <!-- COMMENTED FOR LATER USE -->
