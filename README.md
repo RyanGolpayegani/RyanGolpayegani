@@ -26,8 +26,9 @@ src="https://img.shields.io/github/followers/RezaGolpayegani?logo=github&style=f
 
 - 💻 I'm a Machine Learning Engineer (Intern) at NutraMate.
 - 🌱 Currently, I spend on learning and practicing to develop my skills.
-<!-- - 👯 I’m open to collaborate on any open-source projects. -->
 - 📫 How to reach me: reza.golpayegani1379@gmail.com
+
+<!-- - 👯 I’m open to collaborate on any open-source projects. -->
 
 ### 🖥 Skills
 
