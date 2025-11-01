@@ -29,6 +29,7 @@ src="https://img.shields.io/github/followers/RezaGolpayegani?logo=github&style=f
 
 
 - 💻 I'm a Machine Learning Engineer at NutraMate.
+- 🤖 Currently, I am working Document processing with LLMs/VLMs.
 - 🎓 I have recently graduated with an M.Sc. in Computer Science from the University of Saskatchewan.
 - 📫 How to reach me: ryan.golpayegani@gmail.com
 <!-- - 📫 How to reach me: reza.golpayegani1379@gmail.com -->
