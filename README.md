@@ -51,7 +51,9 @@ src="https://img.shields.io/github/followers/RezaGolpayegani?logo=github&style=f
 <!--   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RyanGolpayegani&show_icons=true&locale=en&layout=compact" alt="RyanGolpayegani" /> -->
 <!--   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=RezaGolpayegani&" alt="RezaGolpayegani" />  -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGolpayegani&layout=compact&langs_count=8&theme=react&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RyanGolpayegani&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true"/>
+  &nbsp;&nbsp;
+  
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RyanGolpayegani&theme=react&hide_border=true" alt="RyanGolpayegani" />
 </div>
 
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RyanGolpayegani&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true"/>
