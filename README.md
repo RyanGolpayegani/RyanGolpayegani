@@ -54,3 +54,14 @@ src="https://img.shields.io/github/followers/RezaGolpayegani?logo=github&style=f
 </div>
 
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RyanGolpayegani&theme=dracula&margin-w=18&margin-h=18&column=6&row=1"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/RyanGolpayegani">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RyanGolpayegani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RyanGolpayegani&layout=compact&langs_count=8&theme=dracula"/>
+</a>
+</p>
+
