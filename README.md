@@ -22,8 +22,6 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanGolpayegani&layout=compact&langs_count=8&theme=react&hide_border=true"/>
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RyanGolpayegani&theme=react&hide_border=true" alt="RyanGolpayegani" />
+ <!-- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RyanGolpayegani&theme=react&hide_border=true" alt="RyanGolpayegani" /> -->
 </div>
 
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RyanGolpayegani&theme=react&hide_border=true" alt="RyanGolpayegani's GitHub Streak" />
