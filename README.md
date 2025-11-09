@@ -24,6 +24,3 @@
   &nbsp;&nbsp;
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RyanGolpayegani&theme=react&hide_border=true" alt="RyanGolpayegani" />
 </div>
-
-<!-- Other Widgets -->
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RyanGolpayegani&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true"/> 
