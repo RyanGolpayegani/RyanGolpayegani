@@ -26,4 +26,4 @@
 </div>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RyanGolpayegani&theme=react&hide_border=true" alt="RyanGolpayegani's GitHub Streak" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RyanGolpayegani&theme=dark&hide_border=true&dates=false&background=121212" alt="RyanGolpayegani's GitHub Streak" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RyanGolpayegani&theme=react&hide_border=true&dates=false&background=121212" alt="RyanGolpayegani's GitHub Streak" />
