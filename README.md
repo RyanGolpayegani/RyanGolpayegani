@@ -1,7 +1,7 @@
 <h1> Ryan Golpayegani </h1>
 
 - 💻 I'm a Machine Learning Engineer at NutraMate.
-- 🤖 Currently, I am working on Document Processing with LLMs/VLMs.
+- 🤖 Currently, I am working on Document Processing with LLMs.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ryangolpayegani/)  or via ryan.golpayegani@gmail.com
 <!-- - 📫 How to reach me: reza.golpayegani1379@gmail.com -->
 <!-- - 🎓 I have recently graduated with an M.Sc. in Computer Science from the University of Saskatchewan. -->
