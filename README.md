@@ -19,8 +19,8 @@
 - **MLOps & Production ML Systems** (vLLM, SGLang, TensorRT, wandb)
 
 <!-- My New Widgets -->
-<div>
+<!-- <div>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RyanGolpayegani&layout=compact&langs_count=8&theme=react&hide_border=true"/>
   &nbsp;&nbsp;
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RyanGolpayegani&theme=react&hide_border=true" alt="RyanGolpayegani" />
-</div>
+</div> -->
